@@ -59,7 +59,7 @@ function Home() {
       <Navbar onSearch={setSearchQuery} />
       
       <section className="hero">
-        <h1>Welcome to Our Store</h1>
+        <h1>priyaaaa</h1>
       </section>
       
       <div className="product-list">
