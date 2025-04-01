@@ -56,7 +56,7 @@ function Home() {
 
   return (
     <div>
-      <Navbar onSearch={setSearchQuery} />
+     
       
       <section className="hero">
         <h1>priyaaaa</h1>
